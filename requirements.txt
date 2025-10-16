@@ -1,0 +1,8 @@
+torch==2.0.1
+transformers==4.40.1
+sentencepiece
+tqdm
+numpy
+scikit-learn
+matplotlib
+jsonlines
